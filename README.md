@@ -1,116 +1,140 @@
 # 👨‍💻 João Vilas Boas — DevOps Practitioner
 
-Profissional com foco em **DevOps prático**, orientado a automação, infraestrutura como código e pipelines de CI/CD.  
-Experiência baseada em **projetos hands-on**, cobrindo todo o ciclo de vida de aplicações: do ambiente local ao deploy, monitoramento e escalabilidade em nuvem.
+Results-driven **DevOps practitioner** focused on automation, Infrastructure as Code (IaC), and CI/CD pipelines.
+
+Hands-on experience covering the entire application lifecycle: from local environments to cloud deployment, monitoring, and scalability.
 
 ---
 
-## 🚀 Habilidades e Competências Técnicas
+## 🚀 Technical Skills & Core Competencies
 
-### 🐧 Sistemas Operacionais & Ambiente
-- Linux (VM / WSL)
-- Administração básica de sistemas
-- Shell Scripting para automação
-- Configuração de ambientes de desenvolvimento e produção
+### 🐧 Operating Systems & Environments
 
----
-
-### 🌱 Versionamento & Colaboração
-- Git (init, branch, merge, rebase)
-- GitHub (repositórios, PRs, Actions)
-- Organização e boas práticas de versionamento
-- Gerenciamento de Secrets no GitHub
+* Linux (VM / WSL)
+* System administration fundamentals
+* Shell Scripting for automation
+* Development and production environment setup
 
 ---
 
-### 🧩 Desenvolvimento de Aplicações
-- Aplicações web simples com **Python Flask**
-- Configuração e uso de **Nginx**
-- Criação de endpoints e health checks
-- Estruturação de aplicações para deploy em nuvem
+### 🌱 Version Control & Collaboration
+
+* Git (init, branch, merge, rebase)
+* GitHub (repositories, PRs, Actions)
+* Version control best practices and organization
+* GitHub Secrets management
 
 ---
 
-### 🐳 Containerização
-- Docker (Dockerfile, build, run, volumes, networks)
-- Publicação de imagens no Docker Hub
-- Docker Compose (ambientes multi-serviço)
-- Padronização de ambientes com containers
+### 🧩 Application Development
+
+* Simple web applications with **Python Flask**
+* **Nginx** configuration and management
+* API endpoint creation and health checks
+* Application structuring for cloud deployment
 
 ---
 
-### 🔁 CI/CD (Integração e Entrega Contínua)
-- GitHub Actions
-- Pipelines automatizados para:
-  - Build
-  - Testes básicos
-  - Publicação de imagens Docker
-  - Deploy automatizado via SSH
-- Gerenciamento seguro de credenciais
+### 🐳 Containerization
+
+* Docker (Dockerfile, build, run, volumes, networks)
+* Image publishing on Docker Hub
+* Docker Compose (multi-container environments)
+* Environment standardization with containers
 
 ---
 
-### 🏗️ Infraestrutura como Código (IaC)
-- Terraform
-- Provisionamento de infraestrutura na AWS:
-  - EC2
-  - Security Groups
-  - Chaves SSH
-  - Load Balancers
-- Criação, versionamento e destruição de infraestrutura (`terraform apply` / `destroy`)
+### 🔁 CI/CD (Continuous Integration & Continuous Delivery)
+
+* GitHub Actions
+* Automated pipelines for:
+* Build
+* Basic testing
+* Docker image publishing
+* Automated deployment via SSH
+
+
+* Secure credentials management
+
+---
+
+### 🏗️ Infrastructure as Code (IaC)
+
+* Terraform
+* AWS infrastructure provisioning:
+* EC2
+* Security Groups
+* SSH Key Pairs
+* Load Balancers
+
+
+* Infrastructure creation, versioning, and destruction (`terraform apply` / `destroy`)
 
 ---
 
 ### ☁️ Cloud Computing (AWS)
-- EC2 (deploy de aplicações containerizadas)
-- Security Groups (controle de acesso)
-- Load Balancer (conceitos de escalabilidade)
-- CloudWatch:
-  - Logs
-  - Métricas
-  - Alertas básicos
+
+* EC2 (containerized application deployment)
+* Security Groups (access control)
+* Load Balancing (scalability concepts)
+* CloudWatch:
+* Logs
+* Metrics
+* Basic alerts
+
+
 
 ---
 
-### ☸️ Orquestração & Containers Avançados
-- Kubernetes (Minikube / Kind)
-- Manifestos YAML
-- Conceitos de:
-  - Pods
-  - Services
-  - Deployments
-- Comparação prática entre Docker Compose e Kubernetes
+### ☸️ Orchestration & Advanced Containerization
+
+* Kubernetes (Minikube / Kind)
+* YAML Manifests
+* Core concepts:
+* Pods
+* Services
+* Deployments
+
+
+* Practical comparison between Docker Compose and Kubernetes
 
 ---
 
-### 📊 Monitoramento & Observabilidade
-- AWS CloudWatch
-- Conceitos de métricas, logs e alertas
-- Noções de Prometheus & Grafana
-- Observabilidade aplicada a ambientes reais
+### 📊 Monitoring & Observability
+
+* AWS CloudWatch
+* Fundamentals of metrics, logs, and alerts
+* Fundamentals of Prometheus & Grafana
+* Observability applied to real-world environments
 
 ---
 
-### 🔐 Segurança & Boas Práticas
-- Gerenciamento de Secrets (GitHub + SSH)
-- Acesso remoto seguro via SSH
-- Separação entre ambientes (local / produção)
-- Princípios básicos de segurança em nuvem
+### 🔐 Security & Best Practices
+
+* Secrets management (GitHub + SSH)
+* Secure remote access via SSH
+* Environment segregation (local / production)
+* Basic cloud security principles
 
 ---
 
-## 🎯 Abordagem de Trabalho
-- Mentalidade **hands-on**
-- Forte foco em automação
-- Infraestrutura tratada como código
-- Clareza sobre trade-offs técnicos
-- Aprendizado orientado a problemas reais
+## 🎯 Work Approach
+
+* **Hands-on** mindset
+* Strong focus on automation
+* Infrastructure managed as code
+* Clear understanding of technical trade-offs
+* Problem-driven continuous learning
 
 ---
 
-## 📌 Objetivo
-Atuar como **DevOps / Cloud / Platform Engineer**, auxiliando times e produtos a:
-- Automatizar deploys
-- Padronizar infraestrutura
-- Aumentar confiabilidade
-- Escalar aplicações com segurança
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+## 📌 Objective
+
+Looking to contribute as a **DevOps / Cloud / Platform Engineer**, helping teams and products to:
+
+* Automate deployments
+* Standardize infrastructure
+* Increase reliability
+* Scale applications securely
