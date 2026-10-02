@@ -130,11 +130,3 @@ Hands-on experience covering the entire application lifecycle: from local enviro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-## 📌 Objective
-
-Looking to contribute as a **DevOps / Cloud / Platform Engineer**, helping teams and products to:
-
-* Automate deployments
-* Standardize infrastructure
-* Increase reliability
-* Scale applications securely
